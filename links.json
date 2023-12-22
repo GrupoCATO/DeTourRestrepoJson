@@ -4,5 +4,5 @@
   "front": "https://detourporcundinamarca.realityapp.co/home",
   "media": "https://turismo-restrepo-bucket.s3.amazonaws.com/media/",
   "visor_pdf": "https://storage.googleapis.com/detour_static/visor_pdf/index.html",
-  "google_play": "https://play.google.com/store/apps/details?id=com.cato.restrepotour"
+  "play_store": "https://play.google.com/store/apps/details?id=com.cato.restrepotour"
 }
