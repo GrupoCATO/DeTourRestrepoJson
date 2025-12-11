@@ -1,6 +1,6 @@
 {
   "backend": "https://turismo-restrepo.realityapp.co/",
-  "cdn": "https://turismo-restrepo.gumlet.io/",
+  "cdn": "",
   "front": "https://detourporcundinamarca.realityapp.co/home",
   "media": "https://storage.googleapis.com/turismo-restrepo-bucket/media/",
   "visor_pdf": "https://storage.googleapis.com/detour_static/visor_pdf/index.html",
